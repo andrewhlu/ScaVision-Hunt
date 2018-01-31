@@ -1,4 +1,4 @@
-# ScaVision-Hunt
+﻿# ScaVision Hunt
 ### A real-time multiplayer scavenger hunt, in real life.
 
 Scavenger hunts are a fun group activity. You race against your friends to find a set number of items faster than them.
